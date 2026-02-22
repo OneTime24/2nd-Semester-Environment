@@ -1,5 +1,6 @@
 // Problem 2: Time Format Converter
-
+//Name: Mohsin Ali
+//Roll Number: 25P-0545
 #include <iostream>
 using namespace std;
 
